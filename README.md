@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.bhatiaux.com](https://www.bhatiaux.com)
+- 👨‍💻 All of my projects are available at [bhatiaux.com](https://www.bhatiaux.com)
 
 - 📫 How to reach me **bhatia12shiv@gmail.com**
 
